@@ -1,4 +1,7 @@
-## Demonstrates the Hibernate GenericGenerator "Foreign" strategy and one-to-one mapping with custom generator.
+## Hibernate "Foreign" key generator with One-to-One mapping.
+ Demonstrates how to use Hibernate generator "Foreign" key strategy and one-to-one mapping.
+ Explains the how to user H2 In memory embedded db with Hibernate and spring.
+ Gives you the idea on custome generator creation.
  
 ## TechStack.
   1. Spring Core/ORM.
@@ -16,10 +19,9 @@
   1. Java 7 or above.
   2. Gradle 2.3 or above.
   
-## How to import?
-  Eclipse IDE.
-     1. Clone/download as zip.
-     2. run ``> gradle eclipse ``  This will create eclipse ide related files, now you can import as eclipse project.
-  
+## How to import?  
+  Eclipse IDE.  
+     1. Clone/download as zip.  
+     2. run ``> gradle eclipse ``  This will create eclipse ide related files, now you can import as eclipse project.  
 ## How to Run?
   Added Test class called DrugTest.java, Run as Junit test.
